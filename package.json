@@ -1,0 +1,23 @@
+{
+  "name": "wxcx.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwind build src/css/tailwind.src.css -c tailwind.js -o assets/tailwind.css", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxcx/wxcx.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxcx/wxcx.github.io/issues"
+  },
+  "homepage": "https://github.com/wxcx/wxcx.github.io#readme",
+  "dependencies": {
+    "tailwindcss": "^0.7.4"
+  }
+}
