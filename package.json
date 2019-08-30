@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "tailwind": "npx tailwind build src/css/tailwind.src.css -c tailwind.js -o assets/tailwind.css", 
+    "tailwind": "npx tailwind build src/css/tailwind.src.css -c tailwind.js -o assets/tailwind.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
